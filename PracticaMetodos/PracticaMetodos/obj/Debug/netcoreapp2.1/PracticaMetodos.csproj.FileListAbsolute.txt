@@ -1,0 +1,11 @@
+C:\Users\Public\Documents\VisualStdio\PracticaMetodos\PracticaMetodos\bin\Debug\netcoreapp2.1\PracticaMetodos.deps.json
+C:\Users\Public\Documents\VisualStdio\PracticaMetodos\PracticaMetodos\bin\Debug\netcoreapp2.1\PracticaMetodos.runtimeconfig.json
+C:\Users\Public\Documents\VisualStdio\PracticaMetodos\PracticaMetodos\bin\Debug\netcoreapp2.1\PracticaMetodos.runtimeconfig.dev.json
+C:\Users\Public\Documents\VisualStdio\PracticaMetodos\PracticaMetodos\bin\Debug\netcoreapp2.1\PracticaMetodos.dll
+C:\Users\Public\Documents\VisualStdio\PracticaMetodos\PracticaMetodos\bin\Debug\netcoreapp2.1\PracticaMetodos.pdb
+C:\Users\Public\Documents\VisualStdio\PracticaMetodos\PracticaMetodos\obj\Debug\netcoreapp2.1\PracticaMetodos.csprojAssemblyReference.cache
+C:\Users\Public\Documents\VisualStdio\PracticaMetodos\PracticaMetodos\obj\Debug\netcoreapp2.1\PracticaMetodos.csproj.CoreCompileInputs.cache
+C:\Users\Public\Documents\VisualStdio\PracticaMetodos\PracticaMetodos\obj\Debug\netcoreapp2.1\PracticaMetodos.AssemblyInfoInputs.cache
+C:\Users\Public\Documents\VisualStdio\PracticaMetodos\PracticaMetodos\obj\Debug\netcoreapp2.1\PracticaMetodos.AssemblyInfo.cs
+C:\Users\Public\Documents\VisualStdio\PracticaMetodos\PracticaMetodos\obj\Debug\netcoreapp2.1\PracticaMetodos.dll
+C:\Users\Public\Documents\VisualStdio\PracticaMetodos\PracticaMetodos\obj\Debug\netcoreapp2.1\PracticaMetodos.pdb

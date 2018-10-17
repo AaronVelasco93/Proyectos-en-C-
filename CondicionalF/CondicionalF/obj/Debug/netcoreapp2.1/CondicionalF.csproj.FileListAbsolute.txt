@@ -1,0 +1,11 @@
+C:\Users\Public\Documents\VisualStdio\CondicionalF\CondicionalF\bin\Debug\netcoreapp2.1\CondicionalF.deps.json
+C:\Users\Public\Documents\VisualStdio\CondicionalF\CondicionalF\bin\Debug\netcoreapp2.1\CondicionalF.runtimeconfig.json
+C:\Users\Public\Documents\VisualStdio\CondicionalF\CondicionalF\bin\Debug\netcoreapp2.1\CondicionalF.runtimeconfig.dev.json
+C:\Users\Public\Documents\VisualStdio\CondicionalF\CondicionalF\bin\Debug\netcoreapp2.1\CondicionalF.dll
+C:\Users\Public\Documents\VisualStdio\CondicionalF\CondicionalF\bin\Debug\netcoreapp2.1\CondicionalF.pdb
+C:\Users\Public\Documents\VisualStdio\CondicionalF\CondicionalF\obj\Debug\netcoreapp2.1\CondicionalF.csprojAssemblyReference.cache
+C:\Users\Public\Documents\VisualStdio\CondicionalF\CondicionalF\obj\Debug\netcoreapp2.1\CondicionalF.csproj.CoreCompileInputs.cache
+C:\Users\Public\Documents\VisualStdio\CondicionalF\CondicionalF\obj\Debug\netcoreapp2.1\CondicionalF.AssemblyInfoInputs.cache
+C:\Users\Public\Documents\VisualStdio\CondicionalF\CondicionalF\obj\Debug\netcoreapp2.1\CondicionalF.AssemblyInfo.cs
+C:\Users\Public\Documents\VisualStdio\CondicionalF\CondicionalF\obj\Debug\netcoreapp2.1\CondicionalF.dll
+C:\Users\Public\Documents\VisualStdio\CondicionalF\CondicionalF\obj\Debug\netcoreapp2.1\CondicionalF.pdb

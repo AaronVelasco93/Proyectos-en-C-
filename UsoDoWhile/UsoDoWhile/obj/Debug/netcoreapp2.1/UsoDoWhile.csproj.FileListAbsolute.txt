@@ -1,0 +1,11 @@
+C:\Users\Public\Documents\VisualStdio\UsoDoWhile\UsoDoWhile\bin\Debug\netcoreapp2.1\UsoDoWhile.deps.json
+C:\Users\Public\Documents\VisualStdio\UsoDoWhile\UsoDoWhile\bin\Debug\netcoreapp2.1\UsoDoWhile.runtimeconfig.json
+C:\Users\Public\Documents\VisualStdio\UsoDoWhile\UsoDoWhile\bin\Debug\netcoreapp2.1\UsoDoWhile.runtimeconfig.dev.json
+C:\Users\Public\Documents\VisualStdio\UsoDoWhile\UsoDoWhile\bin\Debug\netcoreapp2.1\UsoDoWhile.dll
+C:\Users\Public\Documents\VisualStdio\UsoDoWhile\UsoDoWhile\bin\Debug\netcoreapp2.1\UsoDoWhile.pdb
+C:\Users\Public\Documents\VisualStdio\UsoDoWhile\UsoDoWhile\obj\Debug\netcoreapp2.1\UsoDoWhile.csprojAssemblyReference.cache
+C:\Users\Public\Documents\VisualStdio\UsoDoWhile\UsoDoWhile\obj\Debug\netcoreapp2.1\UsoDoWhile.csproj.CoreCompileInputs.cache
+C:\Users\Public\Documents\VisualStdio\UsoDoWhile\UsoDoWhile\obj\Debug\netcoreapp2.1\UsoDoWhile.AssemblyInfoInputs.cache
+C:\Users\Public\Documents\VisualStdio\UsoDoWhile\UsoDoWhile\obj\Debug\netcoreapp2.1\UsoDoWhile.AssemblyInfo.cs
+C:\Users\Public\Documents\VisualStdio\UsoDoWhile\UsoDoWhile\obj\Debug\netcoreapp2.1\UsoDoWhile.dll
+C:\Users\Public\Documents\VisualStdio\UsoDoWhile\UsoDoWhile\obj\Debug\netcoreapp2.1\UsoDoWhile.pdb
