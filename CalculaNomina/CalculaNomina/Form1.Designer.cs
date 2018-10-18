@@ -1,6 +1,6 @@
 ﻿namespace CalculaNomina
 {
-    partial class Form1
+    partial class Error1
     {
         /// <summary>
         /// Variable del diseñador necesaria.
@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            this.components = new System.ComponentModel.Container();
             this.label1 = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
             this.label3 = new System.Windows.Forms.Label();
@@ -43,6 +44,8 @@
             this.label6 = new System.Windows.Forms.Label();
             this.btnNuevo = new System.Windows.Forms.Button();
             this.btnSalir = new System.Windows.Forms.Button();
+            this.error_1 = new System.Windows.Forms.ErrorProvider(this.components);
+            ((System.ComponentModel.ISupportInitialize)(this.error_1)).BeginInit();
             this.SuspendLayout();
             // 
             // label1
@@ -59,16 +62,17 @@
             // label2
             // 
             this.label2.AutoSize = true;
-            this.label2.Location = new System.Drawing.Point(80, 135);
+            this.label2.Location = new System.Drawing.Point(80, 131);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(44, 13);
             this.label2.TabIndex = 1;
             this.label2.Text = "Nombre";
+            this.label2.Click += new System.EventHandler(this.label2_Click);
             // 
             // label3
             // 
             this.label3.AutoSize = true;
-            this.label3.Location = new System.Drawing.Point(83, 168);
+            this.label3.Location = new System.Drawing.Point(80, 162);
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(70, 13);
             this.label3.TabIndex = 2;
@@ -77,7 +81,7 @@
             // label4
             // 
             this.label4.AutoSize = true;
-            this.label4.Location = new System.Drawing.Point(83, 200);
+            this.label4.Location = new System.Drawing.Point(80, 198);
             this.label4.Name = "label4";
             this.label4.Size = new System.Drawing.Size(109, 13);
             this.label4.TabIndex = 3;
@@ -86,7 +90,7 @@
             // label5
             // 
             this.label5.AutoSize = true;
-            this.label5.Location = new System.Drawing.Point(88, 232);
+            this.label5.Location = new System.Drawing.Point(80, 231);
             this.label5.Name = "label5";
             this.label5.Size = new System.Drawing.Size(77, 13);
             this.label5.TabIndex = 4;
@@ -128,19 +132,21 @@
             // 
             this.btnAlmacenaRegistro.Location = new System.Drawing.Point(271, 268);
             this.btnAlmacenaRegistro.Name = "btnAlmacenaRegistro";
-            this.btnAlmacenaRegistro.Size = new System.Drawing.Size(194, 23);
+            this.btnAlmacenaRegistro.Size = new System.Drawing.Size(207, 34);
             this.btnAlmacenaRegistro.TabIndex = 9;
             this.btnAlmacenaRegistro.Text = "Guardar el registro de empleado";
             this.btnAlmacenaRegistro.UseVisualStyleBackColor = true;
+            this.btnAlmacenaRegistro.Click += new System.EventHandler(this.btnAlmacenaRegistro_Click);
             // 
             // btnCalcularSalario
             // 
             this.btnCalcularSalario.Location = new System.Drawing.Point(271, 322);
             this.btnCalcularSalario.Name = "btnCalcularSalario";
-            this.btnCalcularSalario.Size = new System.Drawing.Size(194, 23);
+            this.btnCalcularSalario.Size = new System.Drawing.Size(207, 30);
             this.btnCalcularSalario.TabIndex = 10;
             this.btnCalcularSalario.Text = "Calcular Salario";
             this.btnCalcularSalario.UseVisualStyleBackColor = true;
+            this.btnCalcularSalario.Click += new System.EventHandler(this.btnCalcularSalario_Click);
             // 
             // txtTotalDevengado
             // 
@@ -148,6 +154,7 @@
             this.txtTotalDevengado.Name = "txtTotalDevengado";
             this.txtTotalDevengado.Size = new System.Drawing.Size(100, 20);
             this.txtTotalDevengado.TabIndex = 11;
+            this.txtTotalDevengado.TextChanged += new System.EventHandler(this.txtTotalDevengado_TextChanged);
             // 
             // label6
             // 
@@ -177,8 +184,13 @@
             this.btnSalir.TabIndex = 14;
             this.btnSalir.Text = "Salir";
             this.btnSalir.UseVisualStyleBackColor = true;
+            this.btnSalir.Click += new System.EventHandler(this.btnSalir_Click);
             // 
-            // Form1
+            // error_1
+            // 
+            this.error_1.ContainerControl = this;
+            // 
+            // Error1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
@@ -198,9 +210,10 @@
             this.Controls.Add(this.label3);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
-            this.Name = "Form1";
+            this.Name = "Error1";
             this.Text = "Form1";
             this.Load += new System.EventHandler(this.Form1_Load);
+            ((System.ComponentModel.ISupportInitialize)(this.error_1)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -223,6 +236,7 @@
         private System.Windows.Forms.Label label6;
         private System.Windows.Forms.Button btnNuevo;
         private System.Windows.Forms.Button btnSalir;
+        private System.Windows.Forms.ErrorProvider error_1;
     }
 }
 

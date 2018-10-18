@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace CalculaNomina
+namespace Calculando
 {
     static class Program
     {
@@ -16,7 +16,7 @@ namespace CalculaNomina
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Error1());
+            Application.Run(new Form1());
         }
     }
 }
